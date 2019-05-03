@@ -1,2 +1,2 @@
 # Containers
-Generic docker containers designed to run source engine games.
+container for Mordhau server
